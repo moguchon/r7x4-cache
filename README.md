@@ -29,6 +29,10 @@ https://raw.githubusercontent.com/example/jjaptoon-extension/refs/heads/main/ind
 
 현재 메타데이터:
 - Package: eu.kanade.tachiyomi.extension.ko.jjaptoon
+
+- v1.6.2 APK 빌드 후 GitHub 저장소 루트의 index.json/index.min.json을 이 파일들로 교체하세요.
+그리고 apk/tachiyomi-ko.jjaptoon-v1.6.2.apk 파일을 업로드하세요.
+
 - Version: 1.6.1
 - Version code: 1
 - Source: 짭툰
