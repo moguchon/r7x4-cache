@@ -15,5 +15,22 @@
         "baseUrl": "https://www.jjaptoon005.com"
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: 11toon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
+    "apk": "q2n5-143.apk",
+    "lang": "ko",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "11toon",
+        "lang": "ko",
+        "id": "8796296375202334266",
+        "baseUrl": "https://update.spotv24.com"
+      }
+    ]
   }
 ]
