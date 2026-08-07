@@ -19,10 +19,10 @@
   {
     "name": "Tachiyomi: 11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "q2n5-143.apk",
+    "apk": "q2n5-144.apk",
     "lang": "ko",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
